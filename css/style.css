@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arvo', serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('../img/background.jpg');
+}
+
+i {
+    font-size: 400%;
+}
+
+.card {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(53deg, rgba(2, 0, 36, 1) 0%, rgba(127, 60, 32, 1) 50%, rgba(84, 36, 22, 0.59837533646271) 100%);
+    color: white;
+}
+
+
+.main-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 300%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.nav a {
+    font-size: 200%;
+    margin-bottom: 4%;
+}
+
+.footer i {
+    font-size: 300%;
+    color: white;    
+}
